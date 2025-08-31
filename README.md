@@ -37,6 +37,13 @@
   <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
 </a>
 
+
+description of sir bravin
+  +respect all guyz
+  +give respect to all guyz 
+  +answers all people text
+  +he do legit business 
+  +best developer 
 <!-- Optional Panel Deployment -->
 <a href="panel.com/" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20ON%20PANEL-red?style=for-the-badge&logo=serverfault" alt="Deploy on Panel" width="220">
